@@ -1,5 +1,5 @@
 ### Hi 👋 My name is Nathalie Goffette
-# Junior Web Developer - Front end
+##### Junior Web Developer - Front end
 
 Currently in formation @BeCode Charleroi, learning web development skills. I've also been a speech therapist, a business owner and candle maker in a former professional life ! Love to learn and create stuff !* 🌍  I'm based in Namur - Belgium* 🧠  I'm learning Web Development @BeCode Charleroi
 
